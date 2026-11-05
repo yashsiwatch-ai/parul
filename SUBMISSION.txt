@@ -1,0 +1,15 @@
+Assessment: Frontend Deployment on Vercel
+
+Submit this file with BOTH public links filled in after GitHub push and Vercel deploy.
+
+1. Live Deployment Link:
+https://YOUR-PROJECT-NAME.vercel.app
+
+2. GitHub Repository Link:
+https://github.com/2410305056-tech/react-cosmetic-store
+
+Checklist before submitting:
+- The Vercel URL opens without login.
+- Product list, details, cart, and checkout work on the live site.
+- The GitHub repository is public and contains this same project.
+- Both links are tested in a private/incognito window.
